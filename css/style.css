@@ -1,0 +1,51 @@
+.text {
+    color:brown;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif, Times, serif;
+}
+
+.menu {
+	display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+ 
+.menu-li {
+    float: left;
+    padding: 5px 15px;
+}
+
+.baslik {
+    color:purple;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text1 {
+    text-align: center;
+    color:darkgoldenrod;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ul {
+    text-align: center;
+}
+.ul-li { 
+    list-style-position: inside;
+}
+
+.products {
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+.h2 {
+    color:darkgoldenrod;
+}
+
+.text2 {
+    font-size: 20px;
+}
